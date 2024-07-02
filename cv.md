@@ -3,9 +3,9 @@
 ![изображение](https://github.com/Peter-Wil/rsschool-cv/assets/173402610/b968f2b9-254d-455c-a07a-e188f099053d)
 
 ## Contacts
-E-Mail: pw.de@gmx.de
+**E-Mail:** pw.de@gmx.de
 
-Discord: Peter Wilutis (@Peter_Wil)
+**Discord:** Peter Wilutis (@Peter_Wil)
 
 ## About Me
 I am an expert in security systems design and technical support. 
@@ -22,10 +22,10 @@ From 2007 to 2021 I was engaged in system integration in various fields.
 Since 2021 I changed my place of residence and also decided to change from system integration to programming. 
 
 ## Education
-2007 - 2009 | Specialty "Finance" | Academy of Management and Statistics Almaty, Karaganda city
+**2007 - 2009** | Specialty "Finance" | Academy of Management and Statistics Almaty, Karaganda city
 Graduation: Bachelor's degree in "Finance" specialty
 
-2003 - 2007 | Specialty "Information Systems (by subjects and fields of application)" | State Technical University, Karaganda city
+**2003 - 2007** | Specialty "Information Systems (by subjects and fields of application)" | State Technical University, Karaganda city
 Graduation: Bachelor's degree in "Information Systems" specialty
 
 ## Languages
